@@ -1,0 +1,32 @@
+header {
+    padding: 10px;
+    background-color:blue;
+    color: #fff;
+    display:flex;
+    justify-content: space-between;
+    text-align: left;}
+
+    nav>ul {
+        margin-top:19.92px;
+        display: flex;
+        align-items: right;
+    }
+
+#menu {
+    padding: 0%;
+    background-color:whitesmokeS;
+    grid-area: menu;
+    
+
+}
+nav > ul > li > a {
+     text-decoration: none;
+    color: white;
+}
+
+#maincontent{
+    padding: 32px;
+ grid-area: main;
+}
+
+

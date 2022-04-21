@@ -1,0 +1,36 @@
+body {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: rgb(240, 140, 240);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+
+.lose {
+    color: red;
+}
+
+.win {
+    color: rgb(10, 218, 10);
+}
+.draw{
+    color:rgb(238, 255, 0)
+}
+button {
+    background-color: rgb(255, 162, 162);
+    border: none;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: rgb(236, 39, 194);
+}
